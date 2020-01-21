@@ -1,0 +1,2 @@
+# Amovino
+‘Amovino’ is an online platform that helps to review several kinds of wine from all over the world. From the detailed description, price, type along with its origin to the customer’s review are presented briefly on the website. Features of the website include the top 10 wines in the US and the top 20 most expensive wines in the world. We can also predict the price of a wine based on the points, country, and variety of the wine, which is achieved by using machine learning at the backend.
